@@ -1,6 +1,6 @@
 # NLW eSports
 
-![preview](../NLW%20eSports/assets/images/preview.png)
+![preview](assets/)
 
 > Trilha Explorer
 
