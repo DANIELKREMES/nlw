@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://danielkremes.github.io/NLW-eSports)
+[🔗 Clique aqui para acessar](https://danielkremes.github.io/nlw/)
 
 
 ## 🛠 Tecnologias
